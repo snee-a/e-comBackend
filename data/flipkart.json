@@ -1,0 +1,82 @@
+[
+  {
+    "id": "a109",
+    "name": "MacBook",
+    "company": "Apple",
+    "category": "phone",
+    "price": 150000,
+    "rating": 4.6,
+    "discount": 10,
+    "availability": true
+  },
+  {
+    "id": "a110",
+    "name": "Pencil pro",
+    "company": "Apple",
+    "category": "laptop",
+    "price": 8000,
+    "rating": 4.4,
+    "discount": 12,
+    "availability": true
+  },
+   {
+    "id": "a111",
+    "name": "iPhone 14",
+    "company": "Apple",
+    "category": "phone",
+    "price": 82000,
+    "rating": 4.6,
+    "discount": 10,
+    "availability": true
+  },
+  {
+    "id": "a112",
+    "name": "Lenovo phone",
+    "company": "Lenovo",
+    "category": "laptop",
+    "price": 18000,
+    "rating": 4.4,
+    "discount": 12,
+    "availability": true
+  },
+  {
+    "id": "a113",
+    "name": "oppo phone",
+    "company": "oppo",
+    "category": "phone",
+    "price": 12000,
+    "rating": 4.6,
+    "discount": 10,
+    "availability": true
+  },
+  {
+    "id": "a114",
+    "name": "samsung phone",
+    "company": "samsung",
+    "category": "phone",
+    "price": 32000,
+    "rating": 4.6,
+    "discount": 10,
+    "availability": true
+  },
+  {
+    "id": "a115",
+    "name": "sony TV",
+    "company": "sony",
+    "category": "phone",
+    "price": 42000,
+    "rating": 4.6,
+    "discount": 10,
+    "availability": true
+  },
+  {
+    "id": "a116",
+    "name": "LG fridge",
+    "company": "lg",
+    "category": "phone",
+    "price": 32000,
+    "rating": 4.6,
+    "discount": 10,
+    "availability": true
+  }
+]

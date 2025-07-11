@@ -1,0 +1,82 @@
+[
+  {
+    "id": "a101",
+    "name": "iPhone 15",
+    "company": "Apple",
+    "category": "phone",
+    "price": 72000,
+    "rating": 4.6,
+    "discount": 10,
+    "availability": true
+  },
+  {
+    "id": "a102",
+    "name": "Dell XPS 13",
+    "company": "Dell",
+    "category": "laptop",
+    "price": 98000,
+    "rating": 4.4,
+    "discount": 12,
+    "availability": true
+  },
+   {
+    "id": "a103",
+    "name": "Tablet",
+    "company": "Samsung",
+    "category": "phone",
+    "price": 12000,
+    "rating": 4.6,
+    "discount": 10,
+    "availability": true
+  },
+  {
+    "id": "a104",
+    "name": "Acer Laptop",
+    "company": "Acer",
+    "category": "laptop",
+    "price": 60000,
+    "rating": 4.4,
+    "discount": 12,
+    "availability": true
+  },
+  {
+    "id": "a105",
+    "name": "Realme 11 pro",
+    "company": "Realme",
+    "category": "phone",
+    "price": 24000,
+    "rating": 4.6,
+    "discount": 10,
+    "availability": true
+  },
+  {
+    "id": "a106",
+    "name": "Vivo",
+    "company": "vivo",
+    "category": "phone",
+    "price": 11000,
+    "rating": 4.6,
+    "discount": 10,
+    "availability": true
+  },
+  {
+    "id": "a107",
+    "name": "Redme",
+    "company": "Redme",
+    "category": "phone",
+    "price": 1000,
+    "rating": 4.6,
+    "discount": 10,
+    "availability": true
+  },
+  {
+    "id": "a108",
+    "name": "Dhoom machale phone",
+    "company": "farzi",
+    "category": "phone",
+    "price": 200,
+    "rating": 4.6,
+    "discount": 10,
+    "availability": true
+  }
+]
